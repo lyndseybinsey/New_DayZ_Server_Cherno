@@ -1,0 +1,108 @@
+# 🚫 Ignore Logs & Crash Reports
+*.log
+*.ADM
+*.RPT
+*.MDMP
+logs/
+
+# 🚫 Ignore Config & Cache Files
+*config.vdf
+config/DataCache/
+config/BattlEye/
+config/EventManagerLog/
+config/Users/
+config/CommunityOnlineTools/Logs/
+config/PermissionsFramework/Players/
+config/ExpansionMod/AI/
+config/ExpansionMod/Groups/
+config/ExpansionMod/Hardline/
+config/ExpansionMod/Logs/
+config/ExpansionMod/Quests/PlayerData/
+config/ExpansionMod/Quests/GroupData/
+config/ExpansionMod/ATM/
+config/PvZmoD_TheDarkHorde_Profile_V2/Other/SaveData/
+
+# 🚫 Ignore Executable & DLL Files
+*.exe
+*.dll
+
+# 🚫 Ignore Map & Area Flag Files
+*areaflags.map
+
+# 🚫 Ignore Mods & Expansions
+addons/
+@CF/
+@CannabisPlus/
+@Juggernaut Armor/
+@dzr_notes/
+@QuickMoveItemsByCategory/
+@RaG_Thunderstruck/
+@Code Lock/
+@Custom Keycards/
+@TerjeCore/
+@TerjeSkills/
+@TerjeMedicine/
+@Natures Weavers Summer/
+@Reb's Ballistics - Vanilla/
+@Community-Online-Tools/
+@dbo_tigers_02/
+@GRW ER7 Gauss Rifle/
+@Fast Travel/
+@VPPAdminTools/
+@dbo_atv/
+@Techs 4x4 All Terrain Vehicles/
+@Dabs Framework/
+@Mercedes-Benz SL 65 AMG Black Series/
+@MBM_RamRebel/
+@GunnerTruckOshkosh/
+@Porsche_911RWB/
+@CJ187-LootChest/
+@TerjeCompatibilityCOT/
+@DrugsPLUS/
+@MMG_Inventory_Increased/
+@Gas-Pump-Refueling/
+@Fortune - Cars - Tanks - Vehicle packs/
+@TF-FuelPump/
+@NaturesWeavers/
+@Better Smaller items/
+@BBPWallpaperBeerGarden/
+@BBPItemPack/
+@BaseBuildingPlus/
+@ViewInventoryAnimation/
+@KillAssets/
+@FlipTransport/
+@PvZmoD_TheDarkHorde/
+@Inventory Move Sounds/
+@DayZ Editor Loader/
+@DayZ-Expansion-Bundle/
+@DayZ-Expansion-Licensed/
+@DayZOresAndGems/
+@Unlimited Stamina/
+@DenOfEvil_Summer/
+@DBN_FordRaptor_Scorpio/
+@MMG Base Storage/
+@DayZ-Dog/
+@TangoMedievalPack/
+@BulletStacksPlusPlusEnhanced/
+@InventoryInCar/
+@InventoryPlusPlus/
+@MMG - Mightys Military Gear/
+@SNAFU Weapons/
+
+# 🚫 Ignore Steam Files
+appcache/
+steamapps/
+
+# 🚫 Ignore Other Server Files
+battleye/
+bliss/
+docs/
+BEC/
+dta/
+keys/
+
+# 🚫 Ignore Server Storage Data
+mpmissions/dayzOffline.enoch/storage_0/
+mpmissions/dayzOffline.enoch/storage_1/
+mpmissions/dayzOffline.chernarusplus/
+mpmissions/dayzOffline.sakhal/
